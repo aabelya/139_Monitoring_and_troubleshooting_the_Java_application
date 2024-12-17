@@ -64,16 +64,19 @@ Execute OQL in jhat
 
 #### Get thread dump
 1} jstack
+
 ![img_17.png](img_17.png)
 
 2} kill -3
 
 3} jvisualvm
+
 ![img_16.png](img_16.png)
 
 4} Windows (Ctrl + Break)
 
 5} jcmd
+
 ![img_19.png](img_19.png)
 
 ## Remote JVM profiling
